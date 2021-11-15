@@ -97,21 +97,21 @@
 
   <div class="containcard d-flex mx-auto justify-content-around">
     <div class="card" style="width: 18rem;">
-      <img src="https://picsum.photos/200/300" class="card-img-top" alt="...">
+      <img src="https://picsum.photos/200/300?grayscale" class="card-img-top" alt="...">
       <div class="card-body">
         <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem, excepturi!</p>
       </div>
     </div>
 
     <div class="card" style="width: 18rem;">
-      <img src="https://picsum.photos/200/300" class="card-img-top" alt="...">
+      <img src="https://picsum.photos/200/300?grayscale" class="card-img-top" alt="...">
       <div class="card-body">
         <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo, quasi.</p>
       </div>
     </div>
 
     <div class="card" style="width: 18rem;">
-      <img src="https://picsum.photos/200/300" class="card-img-top" alt="...">
+      <img src="https://picsum.photos/200/300?grayscale" class="card-img-top" alt="...">
       <div class="card-body">
         <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur aliquam laborum animi nostrum rerum laudantium?</p>
       </div>
@@ -159,7 +159,7 @@
 
   
   <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
-    © 2021 Copyright: Pierre-Loïc
+    © 2021 Copyright : Pierre-Loïc
     
   </div>
   <!-- Copyright -->
