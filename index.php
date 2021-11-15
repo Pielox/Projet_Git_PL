@@ -116,7 +116,7 @@
         <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur aliquam laborum animi nostrum rerum laudantium?</p>
       </div>
     </div>
-  </div>    <hr>
+  </div>  <hr>
 
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
@@ -124,4 +124,44 @@
     
 
   </body>
+  <footer class="bg-dark text-center text-white">
+  
+  <div class="container p-4 pb-0">
+    
+    <section class="mb-4">
+      
+      <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"
+        ><i class="bi bi-facebook"></i></a>
+
+      
+      <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"
+        ><i class="bi bi-twitter"></i></a>
+
+      
+      <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"
+        ><i class="bi bi-instagram"></i></a>
+
+      
+      <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"
+        ><i class="bi bi-github"></i></a>
+
+      
+      <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"
+        ><i class="bi bi-linkedin"></i></a>
+
+      
+      <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"
+        ><i class="bi bi-bootstrap"></i></a>
+    </section>
+    
+  </div>
+  
+
+  
+  <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
+    © 2021 Copyright: Pierre-Loïc
+    
+  </div>
+  <!-- Copyright -->
+</footer>
 </html>
