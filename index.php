@@ -93,7 +93,7 @@
 </div>
 
 
-    <h1 class="text-center">Projet_Git</h1><br>
+    <h1 class="text-center text-danger">Projet_Git</h1><br>
 
   <div class="containcard d-flex mx-auto justify-content-around">
     <div class="card" style="width: 18rem;">
@@ -116,7 +116,7 @@
         <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur aliquam laborum animi nostrum rerum laudantium?</p>
       </div>
     </div>
-  </div>  <hr>
+  </div>
 
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
