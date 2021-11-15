@@ -94,30 +94,16 @@
 
 
     <h1 class="text-center text-danger">Projet_Git</h1><br>
-
-  <div class="containcard d-flex mx-auto justify-content-around">
-    <div class="card" style="width: 18rem;">
-      <img src="https://picsum.photos/200/300" class="card-img-top" alt="...">
-      <div class="card-body">
-        <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem, excepturi!</p>
-      </div>
+    <div class="container mx-auto text-center">
+      <span class="btn btn-primary">Primary</span>
+      <span class="btn btn-secondary">Secondary</span>
+      <span class="btn btn-success">Success</span>
+      <span class="btn btn-danger">Danger</span>
+      <span class="btn btn-warning">Warning</span>
+      <span class="btn btn-info">Info</span>
+      <span class="btn btn-light">Light</span>
+      <span class="btn btn-outline-dark">Dark</span>
     </div>
-
-    <div class="card" style="width: 18rem;">
-      <img src="https://picsum.photos/200/300" class="card-img-top" alt="...">
-      <div class="card-body">
-        <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo, quasi.</p>
-      </div>
-    </div>
-
-    <div class="card" style="width: 18rem;">
-      <img src="https://picsum.photos/200/300" class="card-img-top" alt="...">
-      <div class="card-body">
-        <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur aliquam laborum animi nostrum rerum laudantium?</p>
-      </div>
-    </div>
-  </div>
-
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
 
