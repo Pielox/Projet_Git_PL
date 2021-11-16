@@ -162,6 +162,6 @@
     © 2021 Copyright : Pierre-Loïc
     
   </div>
-  <!-- Copyright -->
+  
 </footer>
 </html>
